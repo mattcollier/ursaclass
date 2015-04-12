@@ -1,0 +1,19 @@
+{
+  "name": "ursaclass",
+  "version": "0.0.1-alpha",
+  "description": "testing ursa module in an ES6 class",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattcollier/ursaclass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattcollier/ursaclass/issues"
+  },
+  "homepage": "https://github.com/mattcollier/noxious",
+  "dependencies": {
+    "ursa": "git+https://github.com/quartzjer/ursa.git"
+  }
+}
