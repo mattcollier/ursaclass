@@ -18,3 +18,5 @@ npm install node-gyp -g
 - node main.js
 
 If it runs properly you will see: 'Crypto Key Size:  3072'
+
+If it does not work properly, you may see an error like this: http://hastebin.com/ujosomufav.pl
